@@ -1,0 +1,33 @@
+h1{
+    color:#7FFFD4;
+   
+  }
+
+.item img{
+  height: 500px;
+  width: 500px;
+}
+
+.header{
+    display: flex; 
+    justify-content: space-between;
+    background-color: rgb(225,168,90);
+    background-color: #E1A85A;
+}
+
+.footer{
+    display: flex; 
+    justify-content: center;
+}
+
+.grid{
+    display: flex; 
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+}
+
+body{
+  
+  background-color: #BB3232;
+}
